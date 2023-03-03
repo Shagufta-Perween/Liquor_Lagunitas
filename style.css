@@ -171,6 +171,7 @@ html,body{
     font-weight: 500;
 }
 .page2-left > button{
+    margin-top: 2vmax
     padding: 10px 19px ;
     font:100 1vmax 'Oswald', sans-serif;
     font-weight: 800;
